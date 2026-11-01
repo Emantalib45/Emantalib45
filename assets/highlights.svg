@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="190" viewBox="0 0 1000 190" role="img" aria-label="Four profile highlights: three years teaching, six months internship, two projects, and degree period 2022 to 2026">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#2563eb"/><stop offset="55%" stop-color="#7c3aed"/><stop offset="100%" stop-color="#0d9488"/></linearGradient></defs>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif}.v{font-size:30px;font-weight:750;fill:#fff}.l{font-size:15px;fill:#cbd5e1}</style>
+<g fill="#111827" stroke="url(#g)" stroke-width="2">
+<rect x="5" y="5" width="235" height="180" rx="18"/><rect x="255" y="5" width="235" height="180" rx="18"/><rect x="505" y="5" width="235" height="180" rx="18"/><rect x="755" y="5" width="240" height="180" rx="18"/>
+</g>
+<g text-anchor="middle"><text x="122" y="83" class="v">3 years</text><text x="122" y="116" class="l">Teaching</text>
+<text x="372" y="83" class="v">6 months</text><text x="372" y="116" class="l">RP9 Office internship</text>
+<text x="622" y="83" class="v">2</text><text x="622" y="116" class="l">Named project / research items</text>
+<text x="875" y="83" class="v">2022–2026</text><text x="875" y="116" class="l">Bachelor's study period</text></g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Animated banner for Eeman Talib, MSBA Student and Research Student">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#1d4ed8"/><stop offset="55%" stop-color="#6d28d9"/><stop offset="100%" stop-color="#0f766e"/></linearGradient><linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#60a5fa"/><stop offset="50%" stop-color="#c4b5fd"/><stop offset="100%" stop-color="#5eead4"/></linearGradient></defs>
+<style>text{font-family:system-ui,-apple-system,Segoe UI,sans-serif}.name{font-size:48px;font-weight:750;fill:#fff}.role{font-size:23px;fill:#dbeafe}.chip{font-size:15px;font-weight:600;fill:#f8fafc}.pulse{animation:glow 4s ease-in-out infinite alternate}@keyframes glow{from{opacity:.45}to{opacity:1}}</style>
+<rect x="3" y="3" width="1194" height="254" rx="24" fill="#111827" stroke="url(#line)" stroke-width="3"/><rect x="3" y="3" width="1194" height="254" rx="24" fill="url(#bg)" opacity=".28"/>
+<circle cx="1070" cy="70" r="105" fill="#8b5cf6" opacity=".16" class="pulse"/><circle cx="1120" cy="200" r="75" fill="#2dd4bf" opacity=".12" class="pulse"/>
+<text x="55" y="91" class="name">Eeman Talib</text><text x="58" y="132" class="role">MSBA Student | Research Student</text>
+<g transform="translate(58 166)">
+<rect width="105" height="38" rx="19" fill="#1e40af" stroke="#93c5fd"/><text x="52" y="24" text-anchor="middle" class="chip">Java</text>
+<rect x="117" width="112" height="38" rx="19" fill="#5b21b6" stroke="#c4b5fd"/><text x="173" y="24" text-anchor="middle" class="chip">Python</text>
+<rect x="241" width="105" height="38" rx="19" fill="#0f766e" stroke="#5eead4"/><text x="293" y="24" text-anchor="middle" class="chip">HTML / CSS</text>
+<rect x="358" width="115" height="38" rx="19" fill="#1e40af" stroke="#93c5fd"/><text x="415" y="24" text-anchor="middle" class="chip">Django</text>
+<rect x="485" width="130" height="38" rx="19" fill="#5b21b6" stroke="#c4b5fd"/><text x="550" y="24" text-anchor="middle" class="chip">Bootstrap</text>
+<rect x="627" width="90" height="38" rx="19" fill="#0f766e" stroke="#5eead4"/><text x="672" y="24" text-anchor="middle" class="chip">Redux</text>
+<rect x="729" width="85" height="38" rx="19" fill="#1e40af" stroke="#93c5fd"/><text x="771" y="24" text-anchor="middle" class="chip">AWS</text>
+</g>
+<path d="M58 226 H1142" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="12 12"><animate attributeName="stroke-dashoffset" from="0" to="-96" dur="7s" repeatCount="indefinite"/></path></svg>
